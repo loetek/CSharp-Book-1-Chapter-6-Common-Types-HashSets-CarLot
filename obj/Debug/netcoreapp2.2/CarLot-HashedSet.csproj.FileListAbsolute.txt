@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/bin/Debug/netcoreapp2.2/CarLot-HashedSet.deps.json
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/bin/Debug/netcoreapp2.2/CarLot-HashedSet.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/bin/Debug/netcoreapp2.2/CarLot-HashedSet.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/bin/Debug/netcoreapp2.2/CarLot-HashedSet.dll
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/bin/Debug/netcoreapp2.2/CarLot-HashedSet.pdb
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.dll
+/Users/jdwheeler/workspace/C#/exercises/CarLot-HashedSet/obj/Debug/netcoreapp2.2/CarLot-HashedSet.pdb
